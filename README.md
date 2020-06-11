@@ -1,4 +1,2 @@
-# todo-app
-Chorna khojne Fail huncha hai 
-Do not copy others HW. 
-LOL
+# TODO APP
+ ## Hera ta ajai chorna lai aako Maile gareko chaina . Aru ko Chorna hudaina k HAHAHAHA
